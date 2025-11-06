@@ -28,7 +28,13 @@ We report **TPR @ 0.01 FPR**.
 ## Result submission
 participate by your andrew email and submit the zip file (as specificied by notebook) to val phase. The leaderboard is based on codabench, link: https://www.codabench.org/competitions/11238/
 
-Please submit by groups after forming an organization (clike your name on the top right and create an organization).
+FORMAT: after decompressing your zip file, the file structure should look like:
+  - val:
+    - prediction.csv
+  - final:
+    - prediction.csv
+
+Please submit by groups after forming an organization (click your name on the top right and create an organization).
 
 Please use andrew email to register only. If you have any questions, email me or post a discussion on canvas.
 
